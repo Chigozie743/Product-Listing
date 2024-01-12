@@ -1,0 +1,21 @@
+[debug] [2024-01-12T07:45:12.014Z] ----------------------------------------------------------------------
+[debug] [2024-01-12T07:45:12.017Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Savertech\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-01-12T07:45:12.017Z] CLI Version:   13.0.3
+[debug] [2024-01-12T07:45:12.017Z] Platform:      win32
+[debug] [2024-01-12T07:45:12.017Z] Node Version:  v21.1.0
+[debug] [2024-01-12T07:45:12.017Z] Time:          Fri Jan 12 2024 08:45:12 GMT+0100 (West Africa Standard Time)
+[debug] [2024-01-12T07:45:12.018Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-01-12T07:45:12.024Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-01-12T07:45:12.025Z] > authorizing via signed-in user (disconfitmaths@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\giggs\product_listing_app
+
